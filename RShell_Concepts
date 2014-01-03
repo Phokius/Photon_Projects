@@ -1,0 +1,16 @@
+To begin, I must inform all of our members with inspiring concepts that will help us derive this new project.
+Here is a video link where you can catch a glimpse of our inspiration, the C99.PHP Shell:
+[http://www.youtube.com/watch?v=Ctimn1q2RfM]
+
+As witnessed, the C99 Shell is a piece of software that acts like a Command-Line/Interface-Manager combo (What a shell is!). This software is often intended to be used for maulicious deeds. One can manipulate any given webpage if they manage to launch the .PHP code into the webpage. Though, such methods include SQL Injection and in this day and age, you must resort to even more advanced methods concerning SQL Injection or choose another method to crack the security of the avergae website, or if they have security that is mediocre, one can go right ahead and use SQL Injection to get into the server and begin manipulating data and either crack the Admin password or create a new webpage from the root directory where they can follow up with launching the Shell inside of it and dominate the domain!
+
+But how are we going to make something like this?
+...We begin with learning some of the features a typical Shell would include. Then we start implementing this into .Lua so it will operate with any given Roblox game. But as same as the SQL Injection problem, you're going to have to find a way to inject the actual Shell itself.
+
+Shells tend to be big fat CMDs with added interfaces that inform the directory files that you can alter in ways such as changing the file properties or travel deeper into the directories. Or you could just delete the file or upload one of your own using the CMD!
+
+So, the first draft of our RShell will begin with the graphical directory listing on the left. The CMD will be on the top-right. The Output box will inform users of actions performed as sort of a log file and also to inform if any inputted commands seem to be a bit faulty. Not to forget, we must include a library of commands listed for reference, so I planned to have it scroll onto the screen when called.
+
+[http://postimg.org/image/uts4u4wvn/]
+
+Start coming up with plans and i'll see you soon!
